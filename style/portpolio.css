@@ -207,8 +207,8 @@ margin-right: 70pX;
 }
 .contact input[type=submit]{
     background-color: #FD6E0A;
-    height: 40px;
-    width: 70px;
+    height: 64px;
+    width: 150px;
     border: 0;
     border-radius: 5px;
 }
